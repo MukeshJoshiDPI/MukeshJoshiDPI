@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:mukeshjoshidpi.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:mukeshjoshidpi.github.io#2e7ff5f49dc42c0821c4b155e6eb878a9acfdcbbb9821735aff03883899d0828",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:mukeshjoshidpi.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "iZVHOobXf539oBlR3V8GSiwofFHPUB-Cw_Qn3JT-nJM=",
+        "y": "lVfKP4BMM62wbiFl96Hpkryaiy4Y_rL1oOxPZCGwScs=",
+        "kid": "2e7ff5f49dc42c0821c4b155e6eb878a9acfdcbbb9821735aff03883899d0828",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
