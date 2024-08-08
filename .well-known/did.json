@@ -6,15 +6,15 @@
   "id": "did:web:mukeshjoshidpi.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:mukeshjoshidpi.github.io#9a3bb59b08458f25d998d2fee0ee201acb8411da1532c2b08692fe19f940e273",
+      "id": "did:web:mukeshjoshidpi.github.io#22334eea515f4b30ce8addc4f29ec0e38af9ded0c5f7fd7d3a666f96b1d47583",
       "type": "JsonWebKey2020",
       "controller": "did:web:mukeshjoshidpi.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "ysiqZ54jNI9SZlkS5MyK7O5NmqqKkFbPYVk8gfIka9A=",
-        "y": "I25Hn7HkOCHJIXaa91eNgT2jPeek748iDmtK2_8cJhQ=",
-        "kid": "9a3bb59b08458f25d998d2fee0ee201acb8411da1532c2b08692fe19f940e273",
+        "x": "TFEBXP1DP8AsgFS3YI-1_WKyxViGnxsQtV3r1lqDY7o=",
+        "y": "A-oN0bXVflECEIRI6qmSHgA5z7jpAnA28SYnYP9LF5o=",
+        "kid": "22334eea515f4b30ce8addc4f29ec0e38af9ded0c5f7fd7d3a666f96b1d47583",
         "alg": "ES256"
       }
     }
